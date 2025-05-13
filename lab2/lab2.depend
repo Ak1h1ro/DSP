@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1744631543 source:d:\магистатура_1_курс\2_семестр\ЦОС\lab2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<complex>
+	<numeric>
+
